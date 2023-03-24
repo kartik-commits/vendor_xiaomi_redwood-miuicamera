@@ -53,6 +53,7 @@ PRODUCT_SYSTEM_PROPERTIES += \
     persist.log.tag.OneHopHelper=S \
     persist.log.tag.DeviceUtils=S \
     persist.log.tag.CAM_BoostFrameworkImpl=S \
+    ro.hardware.camera=xiaomi \
     ro.miui.notch=1 \
     ro.product.mod_device=redwood_global \
     ro.miui.build.region=global \
