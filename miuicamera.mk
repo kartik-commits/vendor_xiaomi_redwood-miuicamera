@@ -64,6 +64,10 @@ PRODUCT_PACKAGES += \
     MlkitBarcodeUI \
     VisionBarcode \
     MiuiQRCameraOverlay
+
+# Sepolicy
+SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += vendor/xiaomi/redwood-miuicamera/sepolicy/private
+BOARD_VENDOR_SEPOLICY_DIRS += vendor/xiaomi/redwood-miuicamera/sepolicy/vendor
 	 
 # Sysconfig
 PRODUCT_COPY_FILES += \
