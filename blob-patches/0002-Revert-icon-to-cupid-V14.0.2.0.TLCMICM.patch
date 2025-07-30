@@ -1,7 +1,7 @@
 From 9d3b3f56627c477e7a7c503d6e2c4677f5dfdec1 Mon Sep 17 00:00:00 2001
 From: Arian <arian.kulmer@web.de>
 Date: Sat, 17 May 2025 18:28:29 +0300
-Subject: [PATCH 2/6] Revert-icon-to-cupid-V14.0.2.0.TLCMICM
+Subject: [PATCH 2/9] Revert-icon-to-cupid-V14.0.2.0.TLCMICM
 
 ---
  res/mipmap-anydpi/ic_launcher_camera_cv.xml  |   6 ++++++
@@ -7862,5 +7862,5 @@ literal 0
 HcmV?d00001
 
 -- 
-2.49.0
+2.49.1
 
