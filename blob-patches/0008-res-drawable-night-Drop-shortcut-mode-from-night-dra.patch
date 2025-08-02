@@ -1,7 +1,7 @@
-From 48b274c62300afdcba61e985bf4ccf8b7b6a85fc Mon Sep 17 00:00:00 2001
+From a0fd134c9cc1447e2131f870bafda58e37e6d03d Mon Sep 17 00:00:00 2001
 From: Fuutao <fuutaoao@gmail.com>
 Date: Sun, 2 Jun 2024 12:50:53 +0800
-Subject: [PATCH 8/9] res: drawable-night: Drop shortcut mode from night
+Subject: [PATCH 08/10] res: drawable-night: Drop shortcut mode from night
  drawable
 
 Signed-off-by: Fuutao <fuutaoao@gmail.com>

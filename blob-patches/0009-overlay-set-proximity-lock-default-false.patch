@@ -1,7 +1,7 @@
-From ed1685c8c3264446af14977e10850c8bf45fda62 Mon Sep 17 00:00:00 2001
+From df40ea0a526c6de2db985793dd93850a635c07ca Mon Sep 17 00:00:00 2001
 From: Verevka <verevka86@gmail.com>
 Date: Mon, 30 Dec 2024 16:43:23 +0300
-Subject: [PATCH 9/9] overlay: set proximity lock default false
+Subject: [PATCH 09/10] overlay: set proximity lock default false
 
 ---
  res/values/bools.xml | 2 +-
