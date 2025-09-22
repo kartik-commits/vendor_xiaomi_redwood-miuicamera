@@ -1,7 +1,7 @@
 # All unpinned blobs below are extracted from redwood global OS2.0.4.0.UMSMIXM
 
 # Camera app
-product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=GrapheneCamera,Camera,Camera2,Flash,Aperture
+product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=GrapheneCamera,Camera,Camera2,Flash
 
 # Device Camera Dependencies & Overwrites
 system/lib64/libmqsas.so;SYMLINK=priv-app/MiuiCamera/lib/arm64/libmqsas.so
